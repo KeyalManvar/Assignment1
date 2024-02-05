@@ -1,0 +1,81 @@
+/* Name:Keyal Manvar
+  student_number8980735 */
+  body {
+    width: auto; 
+    max-width: 100%; 
+    margin: 0 auto; 
+    font: 16px Arial, sans-serif; 
+    font-weight: 20px;
+    padding: 0px 5px;
+  }
+
+  .heading{
+  border: 1px solid #000000; 
+  border-radius: 20px; 
+  padding: 15px; 
+  margin: 20px 0;
+  }
+
+  h1 {
+    color: #d10707; 
+    font-variant: small-caps; 
+  }
+
+  h2{
+    color: #151515; 
+    font-variant: small-caps; 
+  }
+
+ 
+
+  main {
+    float: left;
+    width: 66.6%;
+    padding: 0px;
+  }
+  
+  aside {
+  float: right;
+  width: 33.3%;
+  padding: 0px;
+  }
+ 
+  figcaption {
+    font-weight: bold;
+    font-variant: small-caps;
+  }
+
+  q {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 1.2em; 
+  }
+
+  .mainimg {
+    border: 5px solid #000000;
+    padding: 5px; 
+    border-radius: 5px; 
+  }
+  ul li {
+    list-style: none; 
+    line-height: 1.5; 
+  }
+
+  ul a {
+    text-decoration: none; 
+    color: #232db6; 
+  }
+
+  aside ul a:hover {
+    color: #008000; 
+  }
+  footer p {
+    font-size: 0.8em; 
+    color: #666;
+    clear: both;
+    border: 1px solid #000000; 
+  border-radius: 20px; 
+  padding: 15px; 
+  margin: 20px 0;
+  }
+  
